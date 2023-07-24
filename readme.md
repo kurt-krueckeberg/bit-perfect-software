@@ -8,7 +8,7 @@ Linux
 
 - [Universal Media Server](https://www.universalmediaserver.com/download/)
 
-- [OpenSourceMediaCenter](osmc.tv) Free. Has AppImage.
+- [OpenSourceMediaCenter](https://osmc.tv) Free. Has AppImage.
 
 - [Emby](https://emby.media/linux-server.html) Free. Is a media server.
 
