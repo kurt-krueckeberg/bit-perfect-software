@@ -2,8 +2,8 @@
 
 ## Linux
 
-- [Rune Audio](https://www.runeaudio.com/) - free software. RunOS is based on Arch Linux.
-   It is not desired for PC use rather Raspberry PI-like hardware.
+- [Rune Audio](https://www.runeaudio.com/) - free. The RuneOS is based on Arch Linux.
+   It is not designed to be installed on a PC rather used on Raspberry PI-like hardware.
 
 - [Kodi](https://kodi.tv) 
 
