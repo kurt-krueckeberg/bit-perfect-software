@@ -10,7 +10,8 @@
 - [LibreELEC](https://libreelec.tv/) Just enough OS for KODI. The SD creator currently only runs on Windows. 
    It is not clear if you can install it on a PC.
 
-- [Daphile](https://daphile.com/) Linux + software suite. Does have client/server model.
+- [Daphile](https://daphile.com/) is a headless music server + OS. Thus a client/server model.
+  
 
 - [Universal Media Server](https://www.universalmediaserver.com/download/)
 
