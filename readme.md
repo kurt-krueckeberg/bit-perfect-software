@@ -24,6 +24,7 @@
   - {Linux tip](https://emby.media/support/articles/Linux.html)
 
 - [JRiver Media Center for Linux](https://yabb.jriver.com/interact/index.php/topic,134152.0.html?PHPSESSID=rhveois6o75ro6639ebqvlmp81)
+- [Audirvana](https://audirvana.com/)
 
 Others. See <https://circuitdigest.com/article/top-media-server-software-for-music-streaming-on-raspberry-pi>
 
