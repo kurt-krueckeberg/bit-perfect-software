@@ -11,7 +11,7 @@
    It is not clear if you can install it on a PC.
 
 - [Daphile](https://daphile.com/) is a headless music server + OS. Thus a client/server model.
-  
+  - [Install instructions](https://daphile.com/download/DaphileInstallation.pdf) 
 
 - [Universal Media Server](https://www.universalmediaserver.com/download/)
 
