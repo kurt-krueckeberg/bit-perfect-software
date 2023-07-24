@@ -39,23 +39,6 @@ Others. See <https://circuitdigest.com/article/top-media-server-software-for-mus
 - XXHE. No real written docs just a forum.
 
 
-## Some General Comments from diyAudio
+## Plan
 
-Kodi, OSMC and Libreelec are highly customisable, hence the deep menu systems and may seem complicated to use and navigate, but will work on the widely available and cheap Raspberry Pi. 
-Pros - hardware is cheap.
-Cons - Not very user friendly.
-
-If you want a media player thats easy to use then as you have already discovered the Apple 4K TV is the winner, but you now have to use Apple hardware. But the average consumer like this, they just plug it into their tv and start watching movies. 
-Pros - Easy to use.
-Cons - Apply only hardware (not necessarily a bad thing). Software is controlled by Apple.
-
-Jellyfin looks easy to use but only x86 Linux and windows versions are available. There's no support for Rpi or other hardware platforms. 
-Pros - Easy to use.
-Cons - Limited hardware support.
-
-Emby and Plex supports more hardware, but you will have to pay for some features that are free with other media players. 
-Pros - More hardware support.
-Cons - Some features are paid only.
-
-Be aware software development is a time consuming task for software developers who give up their free time to maintain all these open source media players, this is why they mainly concentrate on the raspberry pi as its easier to maintain software for one hardware device.
- 
+Only Emby and JRiver seem like easy to install and get up and running options.
