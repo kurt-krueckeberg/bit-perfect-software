@@ -17,7 +17,7 @@
 - [OpenSourceMediaCenter](https://osmc.tv) Free. Has AppImage.
   Seems to be for specific embedded devices only.
 
-- [Emby](https://emby.media/linux-server.html) Free. Is a media server. Runs on a Linux PC.
+- [Emby](https://emby.media/linux-server.html) Free. Is a media server. It is a .deb package.
 
 - [JRiver Media Center for Linux](https://yabb.jriver.com/interact/index.php/topic,134152.0.html?PHPSESSID=rhveois6o75ro6639ebqvlmp81)
 
