@@ -12,6 +12,7 @@
 
 - [Daphile](https://daphile.com/) is a headless music server + OS. Thus a client/server model.
   - [Install instructions](https://daphile.com/download/DaphileInstallation.pdf) 
+  - [youtube install guide](https://www.youtube.com/watch?v=iydBilo5UXI)
 
 - [Universal Media Server](https://www.universalmediaserver.com/download/)
 
