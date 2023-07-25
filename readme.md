@@ -60,9 +60,10 @@ Answers
 
 [Setting Default ALSA Sound Device](https://www.alsa-project.org/wiki/Setting_the_default_device): 
 
-> For USB devices, all possible parameters are listed in /proc/asound/cardX/stream0
+> For USB devices, all possible parameters are listed in `/proc/asound/cardX/stream0`.
 
 Contents of [/proc/asound/card1/pcm0p/sub0/hw_params explained](https://askubuntu.com/questions/1213559/how-can-i-see-the-current-bit-depth-of-the-playing-audio-stream):
 
-> The `hw_params` file shows the sample format in the format: line. `S24_3LE` indicates 24-bit, little-endian samples. The `streamX` file shows the sample
-> format in the "Interface" section of the selected "Altset".
+> The `hw_params` file shows the sample format in the format: line. `S24_3LE` indicates 24-bit, little-endian samples.
+
+> The `streamX` file shows the sample format in the "Interface" section of the selected "Altset".

@@ -1,0 +1,94 @@
+<h1>Bitperfect Playback Software Options</h1>
+<h2>Linux</h2>
+<ul>
+<li>
+<p><a href="https://kodi.tv">Kodi</a> is an entire media (video and audio) management and server package.</p>
+</li>
+<li>
+<p><a href="https://emby.media/linux-server.html">Emby</a> Free. Is a media server. It is a <code>.deb</code> package.</p>
+<ul>
+<li><a href="https://emby.media/support/articles/Installation.html">Installation instructions</a></li>
+<li><a href="https://emby.media/support/articles/Linux.html">Linux tip</a></li>
+</ul>
+</li>
+<li>
+<p><a href="https://daphile.com/">Daphile</a> is a headless music server + OS. It also includes other music-related packages
+like CD burning) + OS. If you do not have a wired network connection, hit F1 during installation boot-up and enter
+--I think--you network id and password. I found this step confusing.</p>
+<ul>
+<li><a href="https://daphile.com/download/DaphileInstallation.pdf">Install instructions</a></li>
+<li><a href="https://www.youtube.com/watch?v=iydBilo5UXI">youtube install guide</a></li>
+<li>Not actively supported.</li>
+</ul>
+</li>
+<li>
+<p><a href="https://libreelec.tv/">LibreELEC</a> is billed as &quot;Just enough OS for KODI.&quot; The SD creator currently only runs on Windows.
+It is not clear if you can install it on a PC?</p>
+</li>
+<li>
+<p><a href="https://yabb.jriver.com/interact/index.php/topic,134152.0.html?PHPSESSID=rhveois6o75ro6639ebqvlmp81">JRiver Media Center for Linux</a></p>
+</li>
+<li>
+<p><a href="https://www.runeaudio.com/">Rune Audio</a> is a version of Arch Linux.</p>
+<ul>
+<li>free.</li>
+<li>It is not designed to be installed on PCs rather on devices like Raspberry PI.</li>
+</ul>
+</li>
+<li>
+<p><a href="https://www.universalmediaserver.com/download/">Universal Media Server</a></p>
+</li>
+<li>
+<p><a href="https://osmc.tv">Open Source Media Center</a></p>
+<ul>
+<li>Only installs on three devices--Apple TV, Vero 4K (a custom device from OSMC) and Rsspberry PI.</li>
+<li>free</li>
+<li>comes as AppImage. To run the AppImage, you must install the fuse package, then you can make the AppImage
+executable.</li>
+</ul>
+</li>
+</ul>
+<h2>Windows</h2>
+<ul>
+<li>
+<p><a href="https:///www.foobar2000.org">Foobar 2000</a></p>
+<ul>
+<li>Free</li>
+<li>Windows-only.</li>
+<li>bitperfect playback.</li>
+</ul>
+</li>
+<li>
+<p><a href="https://audirvana.com/">Audirvana</a> is Windows-only.
+Others. See <a href="https://circuitdigest.com/article/top-media-server-software-for-music-streaming-on-raspberry-pi">https://circuitdigest.com/article/top-media-server-software-for-music-streaming-on-raspberry-pi</a></p>
+</li>
+</ul>
+<h2>Windows</h2>
+<ul>
+<li>
+<p>Audirvana+ Windows</p>
+</li>
+<li>
+<p>Foobar on Windows + chord audio drivers.</p>
+</li>
+<li>
+<p>MUSIChi software suite</p>
+</li>
+<li>
+<p>XXHE. No real written docs just a forum.</p>
+</li>
+</ul>
+<h2>Check Bitrate and Bitdepth on Linux</h2>
+<h2>Misc</h2>
+<p>Answers</p>
+<p><a href="https://www.alsa-project.org/wiki/Setting_the_default_device">Setting Default ALSA Sound Device</a>:</p>
+<blockquote>
+<p>For USB devices, all possible parameters are listed in <code>/proc/asound/cardX/stream0</code>.</p>
+</blockquote>
+<p>Contents of <a href="https://askubuntu.com/questions/1213559/how-can-i-see-the-current-bit-depth-of-the-playing-audio-stream">/proc/asound/card1/pcm0p/sub0/hw_params explained</a>:</p>
+<blockquote>
+<p>The <code>hw_params</code> file shows the sample format in the format: line. <code>S24_3LE</code> indicates 24-bit, little-endian samples.</p>
+</blockquote>
+<blockquote>
+<p>The <code>streamX</code> file shows the sample format in the &quot;Interface&quot; section of the selected &quot;Altset&quot;.</p>
+</blockquote>
