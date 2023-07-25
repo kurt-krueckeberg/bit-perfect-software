@@ -67,3 +67,44 @@ Contents of [/proc/asound/card1/pcm0p/sub0/hw_params explained](https://askubunt
 > The `hw_params` file shows the sample format in the format: line. `S24_3LE` indicates 24-bit, little-endian samples.
 
 > The `streamX` file shows the sample format in the "Interface" section of the selected "Altset".
+
+
+Example:
+
+
+Output of `kurt@kurt-Airtop3:/proc/asound/card1/stream0`:
+
+```
+Creative Technology Ltd Sound Blaster X4 at usb-0000:00:14.0-4, high speed : USB Audio
+
+Playback:
+  Status: Running
+    Interface = 4
+    Altset = 4
+    Packet Size = 168
+    Momentary freq = 191976 Hz (0x17.ff3b)
+    Feedback Format = 16.16
+  Interface 4
+    Altset 1
+    Format: S16_LE
+    Channels: 2
+    Endpoint: 0x01 (1 OUT) (ASYNC)
+    Rates: 48000, 96000, 192000
+    Data packet interval: 125 us
+    Bits: 16
+    Channel map: FL FR
+    Sync Endpoint: 0x83 (3 IN)
+    Sync EP Interface: 4
+    Sync EP Altset: 1
+```
+
+```
+kurt@kurt-Airtop3:/proc/asound/card1/pcm0p$ cat sub0/hw_params 
+access: RW_INTERLEAVED
+format: S24_3LE
+subformat: STD
+channels: 2
+rate: 192000 (192000/1)
+period_size: 24000
+buffer_size: 96000
+```
