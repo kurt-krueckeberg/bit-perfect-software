@@ -65,6 +65,4 @@ Answers
 Contents of [/proc/asound/card1/pcm0p/sub0/hw_params explained](https://askubuntu.com/questions/1213559/how-can-i-see-the-current-bit-depth-of-the-playing-audio-stream):
 
 > The `hw_params` file shows the sample format in the format: line.
-  `S24_3LE` indicates 24-bit, little-endian samples.
-
-  The streamX file shows the sample format in the "Interface" section of the selected "Altset".
+  `S24_3LE` indicates 24-bit, little-endian samples. The streamX file shows the sample format in the "Interface" section of the selected "Altset".
