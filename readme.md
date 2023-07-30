@@ -13,12 +13,6 @@
 
 - [Universal Media Server](https://www.universalmediaserver.com/download/)
 
-- [Open Source Media Center](https://osmc.tv)
-  - Only installs on three devices--Apple TV, Vero 4K (a custom device from OSMC) and Rsspberry PI.
-  - free
-  - comes as AppImage. To run the AppImage, you must install the fuse package, then you can make the AppImage 
-    executable.
-
 ## ???
 
 - [Daphile](https://daphile.com/) is a headless music server + OS. It also includes other music-related packages 
@@ -36,6 +30,13 @@
 - [Rune Audio](https://www.runeaudio.com/) is a version of Arch Linux.
    - free.
    - It is not designed to be installed on PCs rather on devices like Raspberry PI.
+
+- [Open Source Media Center](https://osmc.tv)
+  - Only installs on three devices--Apple TV, Vero 4K (a custom device from OSMC) and Rsspberry PI.
+  - free
+  - comes as AppImage. To run the AppImage, you must install the fuse package, then you can make the AppImage 
+    executable.
+
 ## Windows
 
 - [Foobar 2000](https:///www.foobar2000.org)
