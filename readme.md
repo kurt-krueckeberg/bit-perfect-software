@@ -9,7 +9,7 @@
   - [Linux tip](https://emby.media/support/articles/Linux.html)
 
 - [JRiver Media Center](https://www.jriver.com/)
- - [JRiver Media Center for Linux](https://yabb.jriver.com/interact/index.php/topic,134152.0.html?PHPSESSID=rhveois6o75ro6639ebqvlmp81)
+  - [JRiver Media Center for Linux](https://yabb.jriver.com/interact/index.php/topic,134152.0.html?PHPSESSID=rhveois6o75ro6639ebqvlmp81)
 
 - [Universal Media Server](https://www.universalmediaserver.com/download/)
 
