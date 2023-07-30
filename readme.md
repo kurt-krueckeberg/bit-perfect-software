@@ -8,22 +8,8 @@
   - [Installation instructions](https://emby.media/support/articles/Installation.html)
   - [Linux tip](https://emby.media/support/articles/Linux.html)
 
-- [Daphile](https://daphile.com/) is a headless music server + OS. It also includes other music-related packages 
-  like CD burning) + OS. If you do not have a wired network connection, hit F1 during installation boot-up and enter 
-  --I think--you network id and password. I found this step confusing. 
-  - [Install instructions](https://daphile.com/download/DaphileInstallation.pdf) 
-  - [youtube install guide](https://www.youtube.com/watch?v=iydBilo5UXI)
-  - Not actively supported.
-
-- [LibreELEC](https://libreelec.tv/) is billed as "Just enough OS for KODI." It runs only on select digital devices.
-   The SD creator currently only runs on Windows. 
-   
 - [JRiver Media Center](https://www.jriver.com/)
  - [JRiver Media Center for Linux](https://yabb.jriver.com/interact/index.php/topic,134152.0.html?PHPSESSID=rhveois6o75ro6639ebqvlmp81)
-
-- [Rune Audio](https://www.runeaudio.com/) is a version of Arch Linux.
-   - free.
-   - It is not designed to be installed on PCs rather on devices like Raspberry PI.
 
 - [Universal Media Server](https://www.universalmediaserver.com/download/)
 
@@ -33,6 +19,23 @@
   - comes as AppImage. To run the AppImage, you must install the fuse package, then you can make the AppImage 
     executable.
 
+## ???
+
+- [Daphile](https://daphile.com/) is a headless music server + OS. It also includes other music-related packages 
+  like CD burning) + OS. If you do not have a wired network connection, hit F1 during installation boot-up and enter 
+  --I think--you network id and password. I found this step confusing. 
+  - [Install instructions](https://daphile.com/download/DaphileInstallation.pdf) 
+  - [youtube install guide](https://www.youtube.com/watch?v=iydBilo5UXI)
+  - Not actively supported.
+
+## Select Digital Devices
+
+- [LibreELEC](https://libreelec.tv/) is billed as "Just enough OS for KODI." It runs only on select digital devices.
+   The SD creator currently only runs on Windows. 
+
+- [Rune Audio](https://www.runeaudio.com/) is a version of Arch Linux.
+   - free.
+   - It is not designed to be installed on PCs rather on devices like Raspberry PI.
 ## Windows
 
 - [Foobar 2000](https:///www.foobar2000.org)
