@@ -1,10 +1,10 @@
 # Bitperfect Playback Software Options
 
-## Linux
+## Multi-OS Media Servers
 
 - [Kodi](https://kodi.tv) is an entire media (video and audio) management and server package. 
 
-- [Emby](https://emby.media/linux-server.html) Free. Is a media server. It is a `.deb` package.
+- [Emby](https://emby.media/linux-server.html) is free, but lacks essential features of the proprietary version.
   - [Installation instructions](https://emby.media/support/articles/Installation.html)
   - [Linux tip](https://emby.media/support/articles/Linux.html)
 
@@ -15,10 +15,11 @@
   - [youtube install guide](https://www.youtube.com/watch?v=iydBilo5UXI)
   - Not actively supported.
 
-- [LibreELEC](https://libreelec.tv/) is billed as "Just enough OS for KODI." The SD creator currently only runs on Windows. 
-   It is not clear if you can install it on a PC?
-
-- [JRiver Media Center for Linux](https://yabb.jriver.com/interact/index.php/topic,134152.0.html?PHPSESSID=rhveois6o75ro6639ebqvlmp81)
+- [LibreELEC](https://libreelec.tv/) is billed as "Just enough OS for KODI." It runs only on select digital devices.
+   The SD creator currently only runs on Windows. 
+   
+- [JRiver Media Center](https://www.jriver.com/)
+ - [JRiver Media Center for Linux](https://yabb.jriver.com/interact/index.php/topic,134152.0.html?PHPSESSID=rhveois6o75ro6639ebqvlmp81)
 
 - [Rune Audio](https://www.runeaudio.com/) is a version of Arch Linux.
    - free.
