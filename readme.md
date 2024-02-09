@@ -32,6 +32,9 @@
   - comes as AppImage. To run the AppImage, you must install the fuse package, then you can make the AppImage 
     executable.
 
+- [Volumio OS](https://volumio.org) -- is a free OS that can be installed on Raspberry PI and PC. The PC install on the MeLe Mini PC, using a USB, did not work 
+  for me. 
+
 ## Windows
 
 - [Foobar 2000](https:///www.foobar2000.org)
